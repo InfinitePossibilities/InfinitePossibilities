@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hello!
 
 - 📫 How to reach me: [Discord](https://discordapp.com/users/175390734608891905): InfiniteOne#8117
 <br />
