@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 <p float="left">
-  ![bg](red)<img alt="net" width="88px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" />
+  [bg](red)<img alt="net" width="88px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" />
   <img alt ="js/node" width="88px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
 </p>
 <p float="left">
