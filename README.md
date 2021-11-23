@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <br />
 - Languages:
 <p float="left">
-  <img alt ="net" width="22px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" />
-  <img alt ="js/node" width="22px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
+  <img alt ="net" width="88px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" />
+  <img alt ="js/node" width="88px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
 </p>
 <p float="left">
-  <img alt ="python" width="22px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
-  <img alt ="lua" width="22px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
+  <img alt ="python" width="88px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
+  <img alt ="lua" width="88px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
 </p>
 
 
