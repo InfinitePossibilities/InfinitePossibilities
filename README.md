@@ -22,10 +22,11 @@ Here are some ideas to get you started:
   <img alt="net" width="88px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" /> <!-- _backgroundColor: "#def" -->
   <img alt ="js/node" width="88px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
 </p>
+<br />
 <p float="left">
   <img alt ="python" width="88px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
   <img alt ="lua" width="88px" src="https://cdn.cdnlogo.com/logos/l/50/lua.svg" />
 </p>
-
+<br />
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=InfinitePossibilities&count_private=true&theme=tokyonight&showicons=true)]()
