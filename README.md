@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hello!
-<a href="https://cdnlogo.com/logo/dotnet_42186.html"><img src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg"></a>
+
 - 📫 How to reach me: [Discord](https://discordapp.com/users/175390734608891905): InfiniteOne#8117
 <br />
 -Languages:
