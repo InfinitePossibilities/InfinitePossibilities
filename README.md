@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📫 How to reach me: [Discord](https://discordapp.com/users/175390734608891905): InfiniteOne#8117
+📫 How to reach me: [Discord](https://discordapp.com/users/175390734608891905): InfiniteOne#8117
 <br />
-- Languages:
+<br />
 <p float="left">
-  <img alt ="net" width="88px" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" />
+  <img alt="net" width="88px" style="background-color:#fff" src="https://cdn.cdnlogo.com/logos/d/95/dotnet.svg" />
   <img alt ="js/node" width="88px" src="https://cdn.cdnlogo.com/logos/n/94/nodejs-icon.svg" />
 </p>
 <p float="left">
